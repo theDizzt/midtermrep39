@@ -1,0 +1,1 @@
+on(release, keyPress "<Enter>") {if (pw138.text == "GG") {nextFrame();}}
